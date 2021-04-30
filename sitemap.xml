@@ -6,6 +6,10 @@
 <url> <loc>https://gogocode.io/zh/docs/specification/replace</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/replace</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/vs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gogocode.io/zh/docs/specification/vue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gogocode.io/zh/docs/specification/cookbook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gogocode.io/en/docs/specification/cookbook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gogocode.io/en/docs/specification/thx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/selector</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/selector</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/instance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -15,7 +19,7 @@
 <url> <loc>https://gogocode.io/zh/docs/specification/category/operate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/category/operate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/vue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gogocode.io/zh/docs/specification/vue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gogocode.io/zh/docs/specification/thx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/independent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/independent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
