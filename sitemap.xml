@@ -19,12 +19,12 @@
 <url> <loc>https://gogocode.io/en/docs/specification/category/get</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/vue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/withBuilder</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gogocode.io/zh/docs/specification/basic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/category/instance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/category/instance</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/category/get</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/category/operate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/zh/docs/specification/category/operate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gogocode.io/zh/docs/specification/basic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/docs/specification/basic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gogocode.io/en/independent</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
